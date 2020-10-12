@@ -1,2 +1,2 @@
 # custom-keyboard-firmwares
-A repository containing the custom firmwares i make for my personal keyboards.
+A repository containing the custom firmwares (compiled/source-code) of my personal keyboards.
